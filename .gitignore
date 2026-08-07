@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/ExtraSource/骑士/SRP/FreeRPGHeroesHD.zip
+Assets/ExtraSource/骑士/SRP/FreeRPGHeroesHD.zip.meta
+Assets/ExtraSource/骑士/SRP/FreeRPGHeroesLW.zip
+Assets/ExtraSource/骑士/SRP/FreeRPGHeroesLW.zip.meta

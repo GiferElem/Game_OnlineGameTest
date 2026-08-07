@@ -15,7 +15,7 @@ MonoBehaviour:
   sentences:
   - content: Hello www
     name: www
-    avtorPic: {fileID: 21300000, guid: 2b50ada8456488c4399f86c37e3723fd, type: 3}
+    avtorPic: {fileID: 21300000, guid: b8fb267a4c4b44b4d9f6a017c7b694eb, type: 3}
   - content: "\u4F60\u597D"
     name: yyy
-    avtorPic: {fileID: 21300000, guid: 8901e5259eba3f942a32e858f0ffaf0b, type: 3}
+    avtorPic: {fileID: 21300000, guid: 4d4c46f8d09b1b946a574fb3fb219fc5, type: 3}
